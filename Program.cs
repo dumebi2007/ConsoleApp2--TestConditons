@@ -48,6 +48,8 @@ namespace ConsoleApp2
                 Console.WriteLine("x is 3 and the name is Joe");
             }
             Console.WriteLine("this line runs no matter what");
+            Console.WriteLine("Testing Githut commit");
+            
         }
     }
 }
