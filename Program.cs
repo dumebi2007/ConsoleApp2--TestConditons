@@ -49,7 +49,7 @@ namespace ConsoleApp2
             }
             Console.WriteLine("this line runs no matter what");
 
-            Console.WriteLine("Testing Githut commit now");
+            Console.WriteLine("I love ice cream");
 
 
         }
